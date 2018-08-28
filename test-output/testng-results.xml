@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49454" started-at="2018-08-22T19:59:32Z" finished-at="2018-08-22T20:00:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49454" started-at="2018-08-22T19:59:32Z" finished-at="2018-08-22T20:00:21Z">
+      <class name="com.insider.testRunner">
+        <test-method status="PASS" signature="testunners()[pri:0, instance:com.insider.testRunner@74650e52]" name="testunners" duration-ms="49434" started-at="2018-08-22T19:59:32Z" finished-at="2018-08-22T20:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testunners -->
+      </class> <!-- com.insider.testRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
